@@ -1,0 +1,21 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  text-align: center;
+}
+
+.btn {
+  border-radius: 8px;
+}
+
+.carousel-item img {
+  height: 400px;
+  object-fit: cover;
+}
