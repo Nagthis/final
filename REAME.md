@@ -96,9 +96,15 @@ No requiere backend ni servidor.
 Compatible con dispositivos móviles, tablets y escritorio.
 
 Grupo 4
+
 Jose Luis Chavez
+
 Lizzette Perez
+
 Felipe Diaz
+
 Cristian Blanco
 
 Camilo Jiménez
+
+
