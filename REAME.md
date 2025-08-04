@@ -2,24 +2,18 @@
 Una tienda web responsiva creada con HTML, CSS, Bootstrap y JavaScript. Permite al usuario navegar productos, agregarlos al carrito, ver detalles del cliente, y almacenar datos usando Local Storage.
 
 📁 Estructura del Proyecto
+
 📦 MiTienda/
+
 │
 ├── index.html           # Página principal con carrusel
-
 ├── productos.html       # Página de productos con cards y filtro
-
 ├── carrito.html         # Carrito de compras
-
 ├── cliente.html         # Página de perfil del cliente
-
 ├── productos.json       # Archivo con datos de productos
-
 ├── script.js            # Lógica JS para manejo de productos y carrito
-
 ├── style.css            # Estilos personalizados
-
 ├── /img/                # Imágenes de productos (reloj, audífonos, etc.)
-
 └── README.md            # Este archivo
 
 ✅ Funcionalidades Implementadas
