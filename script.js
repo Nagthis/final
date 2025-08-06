@@ -54,7 +54,7 @@ function agregarAlCarrito(id) {
   localStorage.setItem("carrito", JSON.stringify(carrito));
 
   // ✅ Redirige automáticamente al carrito
-  window.location.href = "carrito.html";
+  window.location.href = "Carrito.html";
 }
 
 
